@@ -7,3 +7,7 @@ This is the cumulative product of a project first started at [IHPC](https://www.
 - Automated extraction of above-mentioend RDKit parameters as identified.
 - Pre-processing for sk-learn models.
 - Implementation of group-based cross-validataion based on common SMILES (for multiple conformers).
+
+References:
+1. [Predicting ready biodegradability in the Japanese Ministry of International Trade and Industry test](https://setac.onlinelibrary.wiley.com/doi/10.1002/etc.5620191013)
+2. [Chemprop](https://chemprop.readthedocs.io/)
